@@ -1,0 +1,20 @@
+{
+    "name": "dd5-ws-serv",
+    "version": "0.0.2",
+    "description": "Serveur Websocket pour l'application DD5Master",
+    "main": "dd5WSServer.js",
+    "scripts": {
+        "test": "test"
+    },
+    "keywords": [
+        "websocket",
+        "socket.io",
+        "javacript"
+    ],
+    "author": "Gérald Abbadie",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1",
+        "socket.io": "^2.2.0"
+    }
+}
